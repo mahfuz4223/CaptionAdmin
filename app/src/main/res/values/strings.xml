@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Caption Admin</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="category">Category</string>
+    <string name="category_name">Enter Category Name</string>
+    <string name="Done">Done</string>
+</resources>
